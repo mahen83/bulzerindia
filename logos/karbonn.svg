@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80">
+  <defs>
+    <linearGradient id="karbonnGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1E88E5"/>
+      <stop offset="100%" style="stop-color:#2196F3"/>
+    </linearGradient>
+  </defs>
+  <text x="100" y="52" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="url(#karbonnGrad)" text-anchor="middle">KARBONN</text>
+</svg>
